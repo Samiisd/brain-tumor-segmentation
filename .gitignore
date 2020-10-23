@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+NVIDIA-DRIVER.run
+data/mask.mha
+
 __pycache__/
 *.py[cod]
 *$py.class
