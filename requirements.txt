@@ -1,4 +1,2 @@
 itk==5.*
 vtk==8.1.*
-itk-vtkglue==0.3.0
-numpy
